@@ -37,7 +37,8 @@ const QuizLogo = styled(Logo)`
   margin: auto;
   display: block;
   @media screen and (max-width: 500px) {
-    margin: 0;
+    margin-top: 55px;
+    margin-left: 2px;
   }
 `;
 
